@@ -58,8 +58,5 @@ The project is implemented in Python, utilizing asynchronous programming for rea
 
 This project demonstrates advanced capabilities in autonomous robot navigation, combining sensor data processing, real-time decision making, and efficient pathfinding algorithms. It showcases the potential of robotics in solving complex navigational challenges in both structured and unstructured environments.
 
-[1][2]
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/38259056/6ad9532d-ac30-4ca8-b4ef-a34279a809e2/paste.txt
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/38259056/508b6502-0fb6-4738-97fb-e572d24831a7/paste-2.txt
+## Acknowledgments
+Developed as part of CS 1301 - Intro to Computing, Fall 2024
