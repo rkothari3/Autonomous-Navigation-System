@@ -1,4 +1,4 @@
-# Autonomous Robot Navigation Project
+# iRobot Create 3 - Autonomous Robot Navigation Project
 
 ## Overview
 
